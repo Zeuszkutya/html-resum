@@ -1,0 +1,49 @@
+html{
+  background-color: #FEFAE0;
+  font-family: monospace;
+  font-weight: bolder;
+}
+h1{
+  color: #5F6F52;
+}
+h2{
+  text-align: center;
+  color: #5F6F52;
+}
+h3 {
+  color: #5F6F52;
+}
+li {
+  color: #5F6F52;
+}
+p {
+  color: #A9B388;
+}
+hr{
+  height: 2px;
+  background-color: #B99470;
+  border: none;
+}
+img{
+  border-style: groove;
+  border-color: #B99470;
+  border-width: 2px;
+  border-radius: 50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#hobbies {
+  color:#B99470;
+}
+
+#contact {
+  color:#B99470;
+}
+
+#footer {
+  color:#5F6F52
+}
